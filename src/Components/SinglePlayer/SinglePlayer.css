@@ -1,0 +1,57 @@
+
+.card-custom{
+    background:#2a1542;
+    padding:1.5rem;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    width:180px;
+    height:270px;
+    box-shadow:2px 4px 8px rgba(0,0,0,.2);
+    border-radius:5px;
+    animation:animate 4s linear infinite forwards;
+  }
+  .card-custom:hover{
+    box-shadow:2px 2px 12px 2px rgba(74, 189, 154,.3),2px 2px 12px 2px rgba(71, 131, 204,.3);
+  
+  }
+  .card-top-custom{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+  }
+  
+  .card-top-custom img{
+    width:80px;
+    height:80px;
+    box-shadow:1px 1px 4px 2px rgba(255,255,255,.2);
+    border-radius:50%;
+  }
+  .card-top-custom .name{
+    margin-top:10px;
+    color:#fff;
+    text-transform:capitalize;
+  }
+  .card-top-custom .country {
+    color: #838985;
+    cursor:pointer;
+  }
+  .card-top-custom .price{
+      margin-top: 20px;
+      color: white;
+  }
+  .btn-custom{
+    border:2px solid #1D0E2E;
+    padding:.6rem;
+    border-radius:30px;
+    color:#fff;
+    background:transparent;
+    cursor:pointer;
+    text-transform:capitalize;
+    transition:.2s easy-in-out;
+  }
+  .btn-custom:hover{
+    background:#1D0E2E;
+    box-shadow:2px 4px 3px #1D0E2E;
+  }
+  

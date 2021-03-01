@@ -1,0 +1,33 @@
+.container-custom{
+    display: flex;
+    box-sizing: border-box;
+    /* background:#1D0E2E; */
+
+}
+
+  .All-Player-Section {
+    width: 77%;
+    min-height:100vh;
+    font-family: 'Roboto', sans-serif;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin: 20px 5px 0 5px;
+  }
+  .Budget-Section{
+    width: 21%;
+    min-height:100vh;
+    margin-top: 20px;
+    margin-right: 5px;
+    border-radius:5px;
+    background:#2a1542;
+    box-shadow:2px 4px 8px rgba(0,0,0,.2);
+  }
+  .teams {
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:center;
+    
+  }

@@ -1,0 +1,199 @@
+[
+    {"id":1,
+        "name":"Lionel Messi",
+        "current_club":"Barcelona",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/lionel-andres-messi_1548_56-sp-300.png",
+        "gender":"Male",
+        "age":36,
+        "country":"Argentina",
+        "value":370
+    },
+    {"id":2,
+        "name":"Junior Neymar",
+        "current_club":"Paris Saint-Germain",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/neymar-da-silva-santos-junior_9732_212-sp-300.png",
+        "gender":"Male",
+        "age":30,
+        "country":"Brazil",
+        "value":222
+    },
+    {"id":3,
+        "name":"Cristiano Ronaldo",
+        "current_club":"Juventas",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/robert-lewandowski_1744_152-sp-300.png",
+        "gender":"Male",
+        "age":33,
+        "country":"Portugal",
+        "value":235
+    },
+    {
+        "id":4,
+        "name":"Joao Cancelo",
+        "current_club":"Maanchester City",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/joao-cancelo-joao-cancelo_73623_248-sp-300.png",
+        "gender":"Male",
+        "age":28,
+        "country":"Japan",
+        "value":104
+    },
+    {
+        "id":5,
+        "name":"Rodri",
+        "current_club":"Manchester City",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/john-stones_26558_248-sp-300.png",
+        "gender":"Male",
+        "age":29,
+        "country":"Ukraine",
+        "value":100
+    },
+    {
+        "id":6,
+        "name":"John Stones",
+        "current_club":"Manchester City",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/rodrigo-hernandez-cascante_288528_248-sp-300.png",
+        "gender":"Male",
+        "age":29,
+        "country":"France",
+        "value":140
+    },
+    {
+        "id":7,
+        "name":"Ilkay Gundogan",
+        "current_club":"Manchester City",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/ilkay-guendogan_6663_248-sp-300.png",
+        "gender":"Male",
+        "age":29,
+        "country":"Kazakhstan",
+        "value":109
+    },
+    {
+        "id":8,
+        "name":"Jack Grealish",
+        "current_club":"Aston Villa",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/jack-grealish_95074_71-sp-300.png",
+        "gender":"Male",
+        "age":27,
+        "country":"Libya",
+        "value":90
+    },
+    {
+        "id":9,
+        "name":"Kevin de Bruyne",
+        "current_club":"manchester City",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/kevin-de-bruyne_13310_248-sp-300.png",
+        "gender":"Male",
+        "age":32,
+        "country":"Vietnam",
+        "value":104
+    },
+    {
+        "id":10,
+        "name":"Joel Matip",
+        "current_club":"Liverpool FC",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/kurt-happy-zouma_14188_20-sp-300.png",
+        "gender":"Male",
+        "age":33,
+        "country":"Ghana",
+        "value":70
+    },
+    {
+        "id":11,
+        "name":"Joshua Kimmich",
+        "current_club":"Bayern Munich",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/joshua-kimmich_185246_152-sp-300.png",
+        "gender":"Male",
+        "age":30,
+        "country":"Germany",
+        "value":117
+    },
+    {
+        "id":12,
+        "name":"Mohamed Salah",
+        "current_club":"Liverpool FC",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/mohamed-salah_16425_247-sp-300.png",
+        "gender":"Male",
+        "age":34,
+        "country":"Egypt",
+        "value":180
+    },
+    {
+        "id":13,
+        "name":"Harry Maguire",
+        "current_club":"manchester United",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/harry-maguire_80567_21-sp-300.png",
+        "gender":"Male",
+        "age":119,
+        "country":"Japan",
+        "value":31
+    },
+    {
+        "id":14,
+        "name":"Riyad Mahrez",
+        "current_club":"Manchester City",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/riyad-mahrez_27097_248-sp-300.png",
+        "gender":"Male",
+        "age":32,
+        "country":"France",
+        "value":120
+    },
+    {
+        "id":15,
+        "name":"Sadio Mane",
+        "current_club":"Liverpool FC",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/sadio-mane_88763_247-sp-300.png",
+        "gender":"Male",
+        "age":36,
+        "country":"Senegal",
+        "value":140
+    },
+    {
+        "id":16,
+        "name":"Antonio Ruediger",
+        "current_club":"CHelsea",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/antonio-ruediger_84396_20-sp-300.png",
+        "gender":"Male",
+        "age":34,
+        "country":"Cameroon",
+        "value":89
+    },
+    {
+        "id":17,
+        "name":"Kingsley Coman",
+        "current_club":"Bayern Munich",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/kingsley-coman_164798_152-sp-300.png",
+        "gender":"Male",
+        "age":36,
+        "country":"Japan",
+        "value":89
+    },
+    {
+        "id":18,
+        "name":"Serge Gnabry",
+        "current_club":"Bayern Munich",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/serge-gnabry_94839_152-sp-300.png",
+        "gender":"Male",
+        "age":119,
+        "country":"Qatar",
+        "value":99
+    },
+    {
+        "id":19,
+        "name":"Brandais",
+        "current_club":"Thoughtblab",
+        "image":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJOSURBVDjLjZPbaxNBFMarf4cFwb9AIgXBR18Enyw+i1gs4g01kphSlPjQeAtNzNqGNLVpNCGhEvBS21Rr0ZIK6ovFiKbNbXNpdpNsstncUz9nNiauErEDHwMz8/1mzjlz+gD0UZGxh0hFNPAf7SXa3fUpAKparVZoNpvbrVYLvUT2YbFYTEqIEjBAzZIkoVwud1UsFiEIAjKZjAxJp9NgGKYL6Zh3UQA9UK1WUa/X5ZmqVCqhUCiA4zgZUKlUQC+xWq1tCAUM3v6+74hu2cH4eUz6OcwFcvgYEmUANYiiiFF3Aq5XHIJRCeqHLOJbFcg5OW6Mqm495fL2NznYl7OwveYxsZSF6QUHEpIc9+eQgOvuFL6EMjC6wrg4GZZfIwOGbazX8TaPY/qAr5Ms72oOBt8WknwVem8KWmcCY0/S0E1HcXYyhjNMBAYH2waYF8izl3I4eGLqmjLjz9by+PRNxCMS0k0C0c+yMDjj0MwmMOGJ4+Vqtg0Yn+dwf5HH/sG75/4uWzAiwbfCQ+dMYSGQxdhMHMPmMFY+8MgX623AiDu9+YAADg35LErzHU8SGkcSI4+T0DoSuGRnoZ5mcdIUwdC9zd85OHpjQzP+nMOVmZj4NSZBKNVh9LbN6xslnGai8CxmMP+Ol81criwntgugZTysDmovTEXEUVcKV8lt520s5kjJvP4MTpkjyApVXCZmvTWKRqMh6w9A5yO9Xy9ijUgZCi1lL/UEkMUf/+qDHtruAn5BDpAvXKYbOzGTsyW5exWAfgrZQTt3RFu//yfHVsX/fi5tjwAAAABJRU5ErkJggg==",
+        "gender":"Agender",
+        "age":119,
+        "country":"Japan",
+        "value":491
+    },
+    {
+        "id":20,
+        "name":"Bruno Fernandes",
+        "current_club":"Manchester United",
+        "image":"https://1vs1-7f65.kxcdn.com/img/players/players/bruno-miguel-borges-fernandes_171711_21-sp-300.png",
+        "gender":"Male",
+        "age":31,
+        "country":"Japan",
+        "value":84
+    }
+]
